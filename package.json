@@ -1,5 +1,5 @@
 {
-  "name": "my_portfolio",
+  "name": "samin-portfolio",
   "version": "1.0.0",
   "description": "Samin Yasar's Portfolio",
   "main": "App.js",
@@ -16,7 +16,7 @@
   "author": "Samin Yasar",
   "license": "NYU",
   "bugs": {
-    "url": "https://github.com/Samin12/samin-yasar-portfolio"
+    "url": "https://github.com/Samin12/samin-portfolio"
   },
   "homepage": "https://github.com/Samin12/samin-portfolio",
   "devDependencies": {
